@@ -1,5 +1,11 @@
 # cf-packer-demo
-A quick demo of using Packer, Terraform, & Jenkins for immutable deployments.
+A complete full stack microservices application. Included here is:
+- A GraphQL API
+- A React front-end
+- A netlify distribution
+- Test & Prod environments
+- CI/CD for back end services using JenkinsX
+- Infrastructure as code using Terraform
 
 ## Required tools
 You'll need packer, terraform, terragrunt, docker, & the aws cli set up on your local machine to be able to run everything in here.
